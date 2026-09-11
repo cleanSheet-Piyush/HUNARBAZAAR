@@ -101,7 +101,7 @@ This project was built as part of Smart India Hackathon (SIH). Contributions and
 
 ## Team Members
 1. Aman Kumar
-2. Ayush Gupta 
+2. Ayush Gupta
 3. Harsh Raj
 4. Piyush Kumar
 5. Sreyoshi Dutta
